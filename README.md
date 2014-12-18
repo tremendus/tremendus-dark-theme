@@ -1,10 +1,8 @@
 Tremendus Dark Theme for Brackets
 =========
 
-Forked from Zenburn, a dark low contrast color themes originally designed for Vim then modified by someone, and modified by me
+Forked from Zenburn, a dark low contrast color themes originally designed for Vim then modified by Zenburn, and modified by me
+
+![Screenshot](https://github.com/tremendus/tremendus-dark-theme/blob/master/screeb.png)
 
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
-
-
-
-![Zenburn php](https://github.com/chechnyan/Zenburn/blob/master/screenshot.PNG)
