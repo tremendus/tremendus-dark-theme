@@ -1,0 +1,14 @@
+{
+    "name": "tremendus-dark-theme",
+    "title": "Tremendus Dark Theme",
+    "description": "First try to tweak this puppy",
+    "homepage": "https://github.com/tremendus/TremendusDark",
+    "version": "1.0.0",
+    "author": "Tremendus Apps <darren@tremendusapps.com> ",
+    "license": "MIT",
+    "theme": {
+        "file": "TremendusDark.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}

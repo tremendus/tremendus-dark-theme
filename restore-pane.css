@@ -1,0 +1,7 @@
+#editor-holder[class*="split-"] .view-pane {
+	opacity: 1 !important;
+}
+
+#editor-holder[class*="split-"] .active-pane {
+	opacity: 1 !important;
+}
